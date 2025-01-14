@@ -6,7 +6,7 @@ made by **kars** with help from **zero** and powered by [**resynced.design**](ht
 
 ## Current TODO List
 
-**GENERAL:**
+**GENERAL**
 
 -   [ ] Webhook logging
 -   [ ] Antinuke
@@ -32,13 +32,13 @@ made by **kars** with help from **zero** and powered by [**resynced.design**](ht
 -   [ ] Leveling
 -   [x] Min Args
 -   [x] Help Menu
--   [ ] Role Commands
+-   [x] Role Commands
 -   [ ] Emoji Commands
 -   [x] Giveaway Commands
 -   [x] Wipe History
 -   [x] User Info
 -   [x] Parsing Overhaul
--   [ ] Boost Message
+-   [x] Boost Message
 -   [x] Economy
 -   [x] Gambling
 -   [ ] Gambling UI rewrite
