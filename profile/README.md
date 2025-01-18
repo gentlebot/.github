@@ -8,22 +8,22 @@ made by **kars** with help from **zero** and powered by [**resynced.design**](ht
 
 **GENERAL**
 
--   [ ] Webhook logging
+-   [x] Webhook logging
+-   [x] Logging Options
 -   [ ] Antinuke
 -   [x] Bot Owner Commands
--   [ ] Vanity Roles
+-   [x] Vanity Roles
 -   [x] Staff History
 -   [x] User History
 -   [ ] Reaction Roles
 -   [x] Skullboard
 -   [x] AutoReact
 -   [x] AutoRespond
--   [ ] Booster Roles
+-   [x] Booster Roles
 -   [ ] Jail
 -   [x] Autorole
 -   [x] Join Message
 -   [x] Leave Message
--   [ ] Logging Levels
 -   [ ] Filtering
 -   [ ] Tiktok/Insta/Youtube Downloading
 -   [ ] Music Commands
@@ -33,7 +33,7 @@ made by **kars** with help from **zero** and powered by [**resynced.design**](ht
 -   [x] Min Args
 -   [x] Help Menu
 -   [x] Role Commands
--   [ ] Emoji Commands
+-   [x] Emoji Commands
 -   [x] Giveaway Commands
 -   [x] Wipe History
 -   [x] User Info
