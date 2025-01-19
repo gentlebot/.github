@@ -15,7 +15,7 @@ made by **kars** with help from **zero** and powered by [**resynced.design**](ht
 -   [x] Vanity Roles
 -   [x] Staff History
 -   [x] User History
--   [ ] Reaction Roles
+-   [x] Reaction Roles
 -   [x] Skullboard
 -   [x] AutoReact
 -   [x] AutoRespond
